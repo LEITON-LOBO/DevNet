@@ -1,1 +1,2 @@
 I am testing git to become a developer
+Adding more to compare files
